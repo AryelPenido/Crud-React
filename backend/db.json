@@ -1,15 +1,9 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Aryel Penido",
-        "email": "apenido@gmail.com"
-    },
-
+  "users": [
     {
-        "id": 2,
-        "name": "Maria Eduarda Penido",
-        "email": "dpenido@gmail.com"
+      "name": "aryel",
+      "email": "aryelpenido@gmail.com",
+      "id": 1
     }
-
-]
+  ]
 }
